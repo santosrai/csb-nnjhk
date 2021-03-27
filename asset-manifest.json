@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://santosrai.github.io/csb-nnjhk/static/css/main.1cd1dab7.chunk.css",
+    "main.js": "https://santosrai.github.io/csb-nnjhk/static/js/main.a289eb85.chunk.js",
+    "main.js.map": "https://santosrai.github.io/csb-nnjhk/static/js/main.a289eb85.chunk.js.map",
+    "runtime-main.js": "https://santosrai.github.io/csb-nnjhk/static/js/runtime-main.b21552d9.js",
+    "runtime-main.js.map": "https://santosrai.github.io/csb-nnjhk/static/js/runtime-main.b21552d9.js.map",
+    "static/js/2.17109e53.chunk.js": "https://santosrai.github.io/csb-nnjhk/static/js/2.17109e53.chunk.js",
+    "static/js/2.17109e53.chunk.js.map": "https://santosrai.github.io/csb-nnjhk/static/js/2.17109e53.chunk.js.map",
+    "index.html": "https://santosrai.github.io/csb-nnjhk/index.html",
+    "static/css/main.1cd1dab7.chunk.css.map": "https://santosrai.github.io/csb-nnjhk/static/css/main.1cd1dab7.chunk.css.map",
+    "static/js/2.17109e53.chunk.js.LICENSE.txt": "https://santosrai.github.io/csb-nnjhk/static/js/2.17109e53.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b21552d9.js",
+    "static/js/2.17109e53.chunk.js",
+    "static/css/main.1cd1dab7.chunk.css",
+    "static/js/main.a289eb85.chunk.js"
+  ]
+}
